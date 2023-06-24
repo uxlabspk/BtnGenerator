@@ -28,9 +28,9 @@
        <property name="geometry">
         <rect>
          <x>0</x>
-         <y>-277</y>
-         <width>618</width>
-         <height>668</height>
+         <y>0</y>
+         <width>638</width>
+         <height>532</height>
         </rect>
        </property>
        <layout class="QVBoxLayout" name="verticalLayout">
@@ -453,7 +453,7 @@
   </action>
   <action name="actionJoin_us_on_twitter">
    <property name="text">
-    <string>Join us on twitter</string>
+    <string>Follow me on twitter</string>
    </property>
   </action>
  </widget>
